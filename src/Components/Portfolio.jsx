@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Carvenience Ondemand Carwash🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed and emplemented branding features to develop a Azure Static Web App and tooling for a start-up.",
+    url: "https://www.carveniencecarwash.com",
   },
   {
     title: "Web Development for Beginners",
