@@ -2,7 +2,8 @@
 * CSS file to hold styles that apply across the application
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
 
 html,
 body {
@@ -10,7 +11,9 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Kanit", sans-serif;
+  font-style: normal;
+  font-weight: 400;
 }
 
 div#main {
@@ -47,15 +50,18 @@ section img.background {
 }
 
 h1 {
-  font-weight: 300;
-  font-family: "Cormorant Garamond", serif;
+  font-weight: 500;
+  font-family: "Kanit", sans-serif;
+  font-style: italic;
+  color:  #E51A13;
+  text-shadow: #04060D 2px 3px 3px;
   font-size: 7rem;
   margin: 0;
 }
 
 h2 {
-  font-weight: 400;
-  font-size: 2rem;
+  font-weight: 300;
+  font-style: italic;
   margin: 0;
   text-align: center;
 }

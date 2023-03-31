@@ -1,5 +1,5 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "jamesr.website",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
@@ -16,11 +16,12 @@
     "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
   },
   "author": "Microsoft",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
+    "babel": "^6.23.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -35,5 +36,6 @@
     "parcel": "^2.7.0",
     "prettier": "^2.7.1",
     "process": "^0.11.10"
-  }
+  },
+  "main": "index.js"
 }
