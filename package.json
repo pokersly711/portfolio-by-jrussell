@@ -1,13 +1,13 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "James Russell-portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "This portfolio is intended to showcase some of my proudest work. If you would like to see more please contact me.",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://github.com/pokersly711/jrussell.website001",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://{pokersly711}.github.io/{jrussell.website001}/''",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
