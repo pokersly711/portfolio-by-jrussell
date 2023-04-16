@@ -1,11 +1,20 @@
 {
   "name": "James Russell-portfolio",
+=
   "version": "1.0.0",
   "description": "This portfolio is intended to showcase some of my proudest work. If you would like to see more please contact me.",
   "source": "src/index.html",
   "homepage": "https://github.com/pokersly711/jrussell.website001",
   "scripts": {
-    "start": "parcel",
+    "start": "pa
+    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",rcel",
     "build": "parcel build",
     "build-gh": "parcel build --public-url 'https://{pokersly711}.github.io/{jrussell.website001}/''",
     "predeploy": "npm run build-gh",
@@ -16,11 +25,12 @@
     "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
   },
   "author": "Microsoft",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
+    "babel": "^6.23.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -35,5 +45,6 @@
     "parcel": "^2.7.0",
     "prettier": "^2.7.1",
     "process": "^0.11.10"
-  }
+  },
+  "main": "index.js"
 }
