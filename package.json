@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "This portfolio is intended to showcase some of my proudest work. If you would like to see more please contact me.",
   "source": "src/index.html",
-  "homepage": "https://github.com/pokersly711/portfolio-by-jrussell",
+  "homepage": "http://github.com/pokersly711/portfolio-by-jrussell/src/app.js",
   "scripts": {
     "start": "parcel src/index.html",
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://gitehub.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -17,15 +17,15 @@
   "devDependencies": {
     "eslint": "^8.23.0",rcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{pokersly711}.github.io/{jrussell.website001}/''",
+    "build-gh": "parcel build --public-url 'https://pokersly711.github.io/portfolio-by-jrussell.git''",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/pokersly711/portfolio-by-jrussell.git"
   },
-  "author": "Microsoft",
+  "author": "James R",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
