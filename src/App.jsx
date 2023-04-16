@@ -28,14 +28,14 @@ const siteProps = {
   title: "Digital Creator & Full Stack Developer",
   email: "jamesr71172@gmail.com",
   gitHub: "https://github.com/pokersly711",
-  instagram: "microsoft",
-  linkedIn: "",
+  instagram: "",
+  linkedIn: "https://www.linkedin.com/in/james-russell-54a29717b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMHPkulk5QdyOU2AL5QHaDQ%3D%3D",
   medium: "",
   twitter: "",
   youTube: "",
 };
 
-const primaryColor = "#E51A13";
+const primaryColor = "#375766";
 const secondaryColor = "#BFAE99";
 
 const App = () => {

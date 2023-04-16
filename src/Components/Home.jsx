@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/javascriptCode.jpg";
 
-const imageAltText = "woman holding laptop standing by server room with glass wall";
+const imageAltText = "Dual monitors with code on display.";
 
 const Home = ({ name, title }) => {
   return (

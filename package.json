@@ -4,13 +4,14 @@
   "version": "1.0.0",
   "description": "This portfolio is intended to showcase some of my proudest work. If you would like to see more please contact me.",
   "source": "src/index.html",
-  "homepage": "https://github.com/pokersly711/jrussell.website001",
+  "homepage": "https://github.com/pokersly711/portfolio-by-jrussell",
   "scripts": {
-    "start": "pa
+    "start": "parcel src/index.html",
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
+    "react-dom": "^18.2.0"
     "react-dom": "^18.2.0"
   },
   "devDependencies": {

@@ -18,13 +18,13 @@ import React from "react";
  */
 import image from "../images/digitalConnct.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Digital Abstract Photography.";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I graduated Devry University with a Bachelor's degree in Multimedia Design/Web Development.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Full Stack Development",
+  "Adobe Creative Suite",
+  "Problem-solving",
   "Mobile user interfaces",
-  "Graphic design",
+  "Mobile App Development",
 ];
 
 /**
@@ -53,7 +53,7 @@ const About = () => {
       <img className="background" src={image} alt={imageAltText} />
       <div
         style={{
-          backgroundColor: "white",
+          backgroundColor: "#AAABAF",
           width: "50%",
           padding: "4rem",
           margin: "3rem auto",
